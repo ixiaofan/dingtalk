@@ -1,0 +1,23 @@
+{
+    "name": "ixiaofan/dingtalk",
+    "description": "阿里钉钉平台SDK",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "keywords": ["composer","dingtalk","钉钉","办公","OA"],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "ixiaofan.com.cn",
+            "email": "ixiaofan@aliyun.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+
+    "autoload": {
+        "psr-0": {
+            "IXiaoFan\\DingTalk": "src/"
+        }
+    }
+}
